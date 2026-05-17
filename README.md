@@ -288,6 +288,6 @@ _If you use our skills catalog, you **must** provide attribution to Tech Leads C
 <"confirmation"> 
 < anit ban 50%>
 <confing> = "body "headshot"migcal bulet""ane weapons, can't"
-  <confirmation>  connecting by fire fire max"
+  <confirmation>  connecting by fire fire max""auto on all game wep"
 
  
